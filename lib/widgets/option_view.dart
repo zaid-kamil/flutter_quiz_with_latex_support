@@ -53,7 +53,7 @@ class OptionView extends StatelessWidget {
                   option.isLatex
                       ? LaTexT(
                         equationStyle: const TextStyle(
-                          fontSize: 26,
+                          fontSize: 20,
                           fontWeight: FontWeight.w500,
                         ),
                         laTeXCode: Text(option.latexString ?? option.text),

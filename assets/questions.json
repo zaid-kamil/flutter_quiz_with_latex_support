@@ -1,0 +1,242 @@
+[
+  {
+    "id": "2",
+    "type": "multiple_choice",
+    "text": "What is the x and y in the following equation",
+    "is_latex": true,
+    "is_image": false,
+    "image_url": null,
+    "latex_string": "What is the x and y in the following equation. $$\\left\\{\\begin{array}{l}3 x-4 y=1 \\\\ -3 x+7 y=5\\end{array}\\right.$$",
+    "xp": 20,
+    "tag": "math",
+    "difficulty": "medium",
+    "topic": "algebra",
+    "chapter": "equations",
+    "option_list": [
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$x = 1, y = 2$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": true
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$x = 2, y = 1$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$x = 0, y = 0$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$x = -1, y = -2$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "type": "multiple_choice",
+    "text": "$$\\int_0^1 x^2 \\, dx$$",
+    "is_latex": true,
+    "is_image": false,
+    "image_url": null,
+    "latex_string": "$$\\int_0^1 x^2 \\, dx$$",
+    "xp": 25,
+    "tag": "calculus",
+    "difficulty": "hard",
+    "topic": "integration",
+    "chapter": "calculus",
+    "option_list": [
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\frac{1}{3}$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": true
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\frac{1}{2}$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$1$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$0$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "type": "multiple_choice",
+    "text": "$$\\frac{d}{dx} \\left( x^3 + 2x^2 + 3x + 4 \\right)$$",
+    "is_latex": true,
+    "is_image": false,
+    "image_url": null,
+    "latex_string": "$$\\frac{d}{dx} \\left( x^3 + 2x^2 + 3x + 4 \\right)$$",
+    "xp": 30,
+    "tag": "calculus",
+    "difficulty": "medium",
+    "topic": "differentiation",
+    "chapter": "calculus",
+    "option_list": [
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$3x^2 + 4x + 3$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": true
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$2x^2 + 3x + 4$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$1$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$0$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "type": "multiple_choice",
+    "text": "$$\\text{Area of a circle} = \\pi r^2$$",
+    "is_latex": true,
+    "is_image": false,
+    "image_url": null,
+    "latex_string": "$$\\text{Area of a circle} = \\pi r^2$$",
+    "xp": 20,
+    "tag": "geometry",
+    "difficulty": "easy",
+    "topic": "circle",
+    "chapter": "geometry",
+    "option_list": [
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\pi r^2$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": true
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$2\\pi r$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\frac{1}{2}\\pi r^2$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\frac{3}{4}\\pi r^2$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "type": "multiple_choice",
+    "text": "$$\\sin^2(x) + \\cos^2(x) = 1$$",
+    "is_latex": true,
+    "is_image": false,
+    "image_url": null,
+    "latex_string": "$$\\sin^2(x) + \\cos^2(x) = 1$$",
+    "xp": 30,
+    "tag": "trigonometry",
+    "difficulty": "hard",
+    "topic": "trigonometric identities",
+    "chapter": "trigonometry",
+    "option_list": [
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": true
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\sin(2x) = 2\\sin(x)\\cos(x)$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\cos(2x) = \\cos^2(x) - \\sin^2(x)$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      },
+      {
+        "is_image": false,
+        "is_latex": true,
+        "text": "$$\\sin(3x) = 3\\sin(x) - 4\\sin^3(x)$$",
+        "latex_string": null,
+        "image_url": null,
+        "is_correct": false
+      }
+    ]
+  }
+]
